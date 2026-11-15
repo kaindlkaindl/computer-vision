@@ -1,0 +1,11 @@
+path: C:\Users\Gkain\OneDrive\Documenten\PythonCrashCourse\computer vision\dataset_yolo
+train: images/train
+val: images/val
+names:
+  0: hex_nut
+  1: washer
+  2: allen_screw
+  3: hex_bolt
+  4: carriage_bolt
+  5: barrel_nut
+  6: pneumatic_fitting
