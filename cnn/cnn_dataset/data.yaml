@@ -1,0 +1,12 @@
+path: ./cnn_dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: hex_nut
+  1: washer
+  2: allen_screw
+  3: hex_bolt
+  4: carriage_bolt
+  5: barrel_nut
+  6: pneumatic_fitting
