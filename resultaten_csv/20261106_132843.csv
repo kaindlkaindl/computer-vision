@@ -1,2 +1,2 @@
-object_id,onderdeel,x1,y1,x2,y2,x3,y3,x4,y4,werkelijk,correct
-1,barrel_nut,2010.47,1324.61,2376.96,1596.86,2215.99,1813.55,1849.5,1541.3,barrel_nut,True
+image_filename,detection_id,class_id,class_name,x1,y1,x2,y2,x3,y3,x4,y4,orientation_deg,confidence
+20261106_132843.jpg,1,5,barrel_nut,2010.47,1324.61,2376.96,1596.86,2215.99,1813.55,1849.5,1541.3,36.61,0.9904

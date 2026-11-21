@@ -1,2 +1,2 @@
-object_id,onderdeel,x1,y1,x2,y2,x3,y3,x4,y4,werkelijk,correct
-1,pneumatic_fitting,1678.59,1712.29,1670.79,1940.23,1803.32,1944.76,1811.11,1716.82,pneumatic_fitting,True
+image_filename,detection_id,class_id,class_name,x1,y1,x2,y2,x3,y3,x4,y4,orientation_deg,confidence
+20261106_133325.jpg,1,6,pneumatic_fitting,1678.59,1712.29,1670.79,1940.23,1803.32,1944.76,1811.11,1716.82,91.96,0.8584

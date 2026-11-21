@@ -1,2 +1,2 @@
-object_id,onderdeel,x1,y1,x2,y2,x3,y3,x4,y4,werkelijk,correct
-1,allen_screw,1651.71,1864.42,1256.15,1886.86,1265.07,2044.09,1660.63,2021.65,allen_screw,True
+image_filename,detection_id,class_id,class_name,x1,y1,x2,y2,x3,y3,x4,y4,orientation_deg,confidence
+20261106_133457.jpg,1,2,allen_screw,1651.71,1864.42,1256.15,1886.86,1265.07,2044.09,1660.63,2021.65,176.75,0.8491

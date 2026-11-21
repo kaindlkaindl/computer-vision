@@ -1,2 +1,2 @@
-object_id,onderdeel,x1,y1,x2,y2,x3,y3,x4,y4,werkelijk,correct
-1,washer,1390.42,1977.39,1797.21,1988.61,1786.89,2362.48,1380.11,2351.25,washer,True
+image_filename,detection_id,class_id,class_name,x1,y1,x2,y2,x3,y3,x4,y4,orientation_deg,confidence
+20261106_133253_v_flip.jpg,1,1,washer,1390.42,1977.39,1797.21,1988.61,1786.89,2362.48,1380.11,2351.25,1.58,0.7663

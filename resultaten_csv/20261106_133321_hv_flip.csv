@@ -1,2 +1,2 @@
-object_id,onderdeel,x1,y1,x2,y2,x3,y3,x4,y4,werkelijk,correct
-1,pneumatic_fitting,1515.46,2288.74,1739.9,2291.55,1738.6,2395.47,1514.16,2392.66,pneumatic_fitting,True
+image_filename,detection_id,class_id,class_name,x1,y1,x2,y2,x3,y3,x4,y4,orientation_deg,confidence
+20261106_133321_hv_flip.jpg,1,6,pneumatic_fitting,1515.46,2288.74,1739.9,2291.55,1738.6,2395.47,1514.16,2392.66,0.72,0.9923

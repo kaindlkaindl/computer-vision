@@ -1,2 +1,2 @@
-object_id,onderdeel,x1,y1,x2,y2,x3,y3,x4,y4,werkelijk,correct
-1,allen_screw,1710.19,1913.9,1387.01,2186.59,1483.24,2300.65,1806.43,2027.96,allen_screw,True
+image_filename,detection_id,class_id,class_name,x1,y1,x2,y2,x3,y3,x4,y4,orientation_deg,confidence
+20261106_133458_v_flip.jpg,1,2,allen_screw,1710.19,1913.9,1387.01,2186.59,1483.24,2300.65,1806.43,2027.96,139.84,0.8195

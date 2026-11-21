@@ -1,2 +1,2 @@
-object_id,onderdeel,x1,y1,x2,y2,x3,y3,x4,y4,werkelijk,correct
-1,hex_bolt,1725.38,2363.79,1745.02,2058.0,1578.74,2047.32,1559.1,2353.11,hex_bolt,True
+image_filename,detection_id,class_id,class_name,x1,y1,x2,y2,x3,y3,x4,y4,orientation_deg,confidence
+20261106_133337_v_flip.jpg,1,3,hex_bolt,1725.38,2363.79,1745.02,2058.0,1578.74,2047.32,1559.1,2353.11,93.67,0.8191

@@ -1,2 +1,2 @@
-object_id,onderdeel,x1,y1,x2,y2,x3,y3,x4,y4,werkelijk,correct
-1,barrel_nut,1753.93,1178.01,2162.3,1193.72,2153.88,1412.68,1745.5,1396.98,barrel_nut,True
+image_filename,detection_id,class_id,class_name,x1,y1,x2,y2,x3,y3,x4,y4,orientation_deg,confidence
+20261106_132838_h_flip.jpg,1,5,barrel_nut,1753.93,1178.01,2162.3,1193.72,2153.88,1412.68,1745.5,1396.98,2.2,0.9983
